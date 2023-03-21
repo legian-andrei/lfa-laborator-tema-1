@@ -1,1 +1,1 @@
-# tema_1_final
+# Algoritm pentru verificarea unui cuvant intr-un automat finit determinist
